@@ -1,0 +1,25 @@
+{
+  "name": "jest-rpg",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anniavd/jest-RPG.git"
+  },
+  "author": "annia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anniavd/jest-RPG/issues"
+  },
+  "homepage": "https://github.com/anniavd/jest-RPG#readme",
+  "dependencies": {
+    "inquirer": "^7.3.2"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
