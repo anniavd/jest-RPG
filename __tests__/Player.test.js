@@ -1,9 +1,10 @@
 const Potion = require('../lib/Potion');
+const Player = require('../lib/Player');
 
 jest.mock('../lib/Potion');
 
 
-const Player = require('../lib/Player');
+
 
 //player test
 test('creates a player object', () => {
