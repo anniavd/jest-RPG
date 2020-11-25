@@ -6,7 +6,7 @@
 
 # Description
 
-Jest RPG an RPG with characters, enemies, and a game object. The user will have the choice to attack or use a potion to increase one of their three stats: strength, agility, and health. 
+Jest RPG is a Back-end app,an RPG with characters, enemies and a game object. The user will have the choice to attack or use a potion to increase one of their three stats: strength, agility, and health. 
   
 
 # Table of Contents
