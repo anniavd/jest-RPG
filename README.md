@@ -17,7 +17,6 @@ Jest RPG an RPG with characters, enemies, and a game object. The user will have 
 
 [License](#License)
 
-
 [Technologies](#Technologies)
 
 [Questions](#Questions)
@@ -31,7 +30,6 @@ Jest RPG an RPG with characters, enemies, and a game object. The user will have 
 
 
 
-
 # Usage 
 - When the application is running, a series of questions will be displayed as shown in the following image.
 
@@ -40,7 +38,7 @@ Jest RPG an RPG with characters, enemies, and a game object. The user will have 
  ![first question](/images/first-part.jpg)
 
 
-  - The player after each attack has the option to choose to **Attack** or **Use Potion**.The potion has two options to choose from as shown below.
+  - The player after each attack has the option to choose to **Attack** or **Use Potion**.The potion has two options to choose from but there are 3 types of potions. The potions are random.
 
   
   ![select use potion](/images/use-potion.jpg)
