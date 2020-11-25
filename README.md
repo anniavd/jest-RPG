@@ -58,6 +58,7 @@ NONE
 # Technologies 
  - NODE
  - JEST
+ - JAVASCRIPT
  - INQUIRER
 
 
